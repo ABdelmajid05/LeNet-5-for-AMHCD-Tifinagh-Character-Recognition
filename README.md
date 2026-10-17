@@ -78,9 +78,7 @@ LeNet5-AMHCD-SGD-Adam/
 ├── README.md
 ├── requirements.txt
 ├── TP_LeNet5_AMHCD_RGB_SGD_vs_Adam.ipynb
-└── results/
-    ├── comparison_SGD_Adam.png
-    └── comparison_SGD_Adam.csv
+└── results
 ```
 
 The results files are generated when the notebook is executed.
