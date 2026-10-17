@@ -120,8 +120,5 @@ The quantitative results for SGD and Adam should be reported after executing the
 
 This project was developed as part of academic work at the Faculté des Sciences Appliquées d'Ouarzazate.
 
-**Supervisor:** Dr. Mohamed BENADD
+**Supervisor:** Dr. Mohamed BENADDY
 
-## License
-
-Add an appropriate license if you intend to redistribute this code publicly. Check the dataset's terms before sharing the dataset or derived materials.
